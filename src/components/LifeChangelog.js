@@ -6,6 +6,10 @@ const LifeChangelog = () => {
       year: "2025",
       events: [
         {
+        title: "AWS JAM Journey Winner",
+        description: "🏆 Winner of the Solo AWS Jam Journey at my university. Solved Real-World Cloud Challenges"
+        },
+        {
           title: "DevOps Intern at Xebia 🚀",
           description: "Joined Xebia as DevOps intern. Working on TravelEase Cloud-Native Microservices Deployment with enterprise-grade automation."
         },
@@ -13,10 +17,7 @@ const LifeChangelog = () => {
           title: "Microservices Architecture Deep Dive 🏗️",
           description: "Built real-time collaborative code editor using microservices architecture with JWT authentication and scalable backend."
         },
-        {
-        title: "AWS JAM Journey Winner",
-        description: "🏆 Winner of the Solo AWS Jam Journey at my university. Solved Real-World Cloud Challenges"
-}
+     
       ]
     }
   ];

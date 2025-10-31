@@ -19,6 +19,9 @@ const Header = () => {
           <a href="mailto:ddnbhavesh@gmail.com">
             Email
           </a>
+          <a href="https://www.credly.com/users/bhavesh-kapur" target="_blank" rel="noopener noreferrer">
+            Credly
+          </a>
         </div>
       </div>
     </header>
